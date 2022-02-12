@@ -3,7 +3,6 @@
 <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
     <img width="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker Logo">
 </a>
-<span style="color:white;font-size:3rem;padding-left:2rem;padding-right:2rem;">+</span>
 <a href="https://hyperf.io" target="_blank" rel="noopener noreferrer">
     <img width="70" src="https://cdn.jsdelivr.net/gh/hyperf/hyperf/docs/logo.png" alt="Hyperf Logo">
 </a>
